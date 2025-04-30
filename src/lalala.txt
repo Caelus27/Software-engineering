@@ -1,2 +1,1 @@
-This is a learning test for Git
-C4修改
+C4合并到B1时的冲突修改
